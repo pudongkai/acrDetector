@@ -26,7 +26,7 @@
 
   ```shell
   cd acrDetector/
-  python3 main basePath/CP014225.1
+  python3 main.py basePath/CP014225.1
   ```
 
 - Result
