@@ -1,0 +1,57 @@
+import mysql.connector
+
+
+def save(uuid, dataSetFile, predict_proteins):
+    mydb = mysql.connector.connect(
+        host="localhost",  # 数据库主机地址
+        user="root",  # 数据库用户名
+        passwd="Annocent",  # 数据库密码
+        database="AcrDetector"
+    )
+
+    # 使用cursor()方法获取操作游标
+    mycursor = mydb.cursor()
+
+    features = FeatureHandler.getFeatures(file, predict_proteins)
+
+    gbkFile = dataSetFile.replace(".txt", ".gbff")
+    handle = SeqIO.parse(gbkFile, 'genbank')
+    for record in handle:
+        locus = record.id
+        genome = record.annotations["source"]
+        for (index, feature) in enumerate(record.features):
+            if feature.type == 'gene' or feature.type == 'CDS':
+                qualifier = feature.qualifiers
+                if feature.type == 'CDS' and 'translation' in qualifier:
+                    qualifier = feature.qualifiers
+                    proteinId = qualifier['protein_id'][0]
+                    product = qualifier['product'][0]
+                    seq = qualifier['translation'][0]
+                    length = len(seq)
+
+                    mge = features[proteinId]["mge"]
+                    hth = features[proteinId]["hth"]
+                    codonDistance = features[proteinId]["codonDistance"]
+
+                    data = [uuid, genome, locus, proteinId, length, mge, product, hth, codonDistance, seq]
+                    insert(data, mycursor)
+
+    # 关闭数据库连接
+    mydb.close()
+
+
+def insert(data, mycursor):
+    # 使用execute方法执行SQL语句
+    sql = "INSERT INTO potential_acr " \
+          "(uuid, genome, locus, protein_id, length, mge, product, hth, codon_distance, seq) " \
+          "VALUES " \
+          "(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
+
+    mycursor.execute(sql, data)
+
+    mydb.commit()
+
+
+
+if __name__ == "__main__":
+    insert("")
