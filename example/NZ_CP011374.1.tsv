@@ -1,0 +1,181 @@
+Island start	Island end	Length	Method	Gene name	Gene ID	Locus	Gene start	Gene end	Strand	Product	External Annotations
+69507	77061	7554	Predicted by at least one method	WP_036363641.1	sdhB	AAX09_RS00285	68810	69520	1	succinate dehydrogenase iron-sulfur subunit	
+69507	77061	7554	Predicted by at least one method	WP_046700749.1		AAX09_RS00290	69507	69734	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700750.1		AAX09_RS00295	69731	69940	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700751.1		AAX09_RS00300	70213	70491	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700752.1		AAX09_RS00305	70649	71098	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700753.1		AAX09_RS00310	71719	72177	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700754.1		AAX09_RS00315	72187	72447	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_080947221.1		AAX09_RS00320	73065	73373	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700755.1		AAX09_RS00325	73389	73808	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700756.1		AAX09_RS00330	74047	74478	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046699522.1		AAX09_RS00335	74481	74804	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700757.1		AAX09_RS00340	75116	75409	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_046700758.1		AAX09_RS00345	75465	76403	1	hypothetical protein	
+69507	77061	7554	Predicted by at least one method	WP_080947222.1		AAX09_RS00350	76393	77061	1	hypothetical protein	
+465494	470244	4750	Predicted by at least one method			AAX09_RS10620	465494	465675	-1	hypothetical protein	
+465494	470244	4750	Predicted by at least one method	WP_046701625.1		AAX09_RS02235	466042	467613	1	site-specific DNA-methyltransferase	
+465494	470244	4750	Predicted by at least one method	WP_046701626.1		AAX09_RS02240	467632	470244	1	DEAD/DEAH box helicase	
+558149	563227	5078	Predicted by at least one method	WP_080947262.1		AAX09_RS02655	558149	560362	1	type I secretion system permease/ATPase	
+558149	563227	5078	Predicted by at least one method	WP_036365018.1		AAX09_RS02660	560409	561836	1	HlyD family type I secretion periplasmic adaptor subunit	
+558149	563227	5078	Predicted by at least one method	WP_046701636.1		AAX09_RS02665	561935	563227	1	TolC family protein	
+838426	843452	5026	Predicted by at least one method	WP_080947023.1		AAX09_RS03745	838426	839037	-1	hypothetical protein	
+838426	843452	5026	Predicted by at least one method	WP_046699874.1		AAX09_RS03750	839175	840344	-1	transposase	
+838426	843452	5026	Predicted by at least one method	WP_046698056.1		AAX09_RS03755	840515	840775	-1	hypothetical protein	
+838426	843452	5026	Predicted by at least one method	WP_046699875.1		AAX09_RS03760	841393	842316	1	Arc family DNA-binding protein	
+838426	843452	5026	Predicted by at least one method	WP_046699876.1		AAX09_RS03765	842301	842642	-1	hypothetical protein	
+838426	843452	5026	Predicted by at least one method	WP_046701029.1		AAX09_RS03770	842692	842985	-1	barnase inhibitor	
+838426	843452	5026	Predicted by at least one method	WP_046701659.1		AAX09_RS03775	842982	843452	-1	ribonuclease	
+840515	865231	24716	Predicted by at least one method	WP_046698056.1		AAX09_RS03755	840515	840775	-1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046699875.1		AAX09_RS03760	841393	842316	1	Arc family DNA-binding protein	
+840515	865231	24716	Predicted by at least one method	WP_046699876.1		AAX09_RS03765	842301	842642	-1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046701029.1		AAX09_RS03770	842692	842985	-1	barnase inhibitor	
+840515	865231	24716	Predicted by at least one method	WP_046701659.1		AAX09_RS03775	842982	843452	-1	ribonuclease	
+840515	865231	24716	Predicted by at least one method	WP_046701030.1		AAX09_RS03780	844095	851990	1	filamentous hemagglutinin N-terminal domain-containing protein	
+840515	865231	24716	Predicted by at least one method	WP_046699879.1		AAX09_RS03785	851974	852261	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_080947024.1		AAX09_RS03790	852268	853386	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046699881.1		AAX09_RS03795	853383	853910	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_080947025.1		AAX09_RS10680	853944	855245	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046701031.1		AAX09_RS03805	855242	855514	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046701032.1		AAX09_RS03810	855849	856259	-1	IS200/IS605 family transposase	
+840515	865231	24716	Predicted by at least one method	WP_046701033.1		AAX09_RS03815	856308	857414	1	transposase	
+840515	865231	24716	Predicted by at least one method			AAX09_RS03820	857717	858460	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_080947283.1		AAX09_RS10685	859146	859823	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method			AAX09_RS03830	859847	860473	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_080947186.1		AAX09_RS03835	861270	861572	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046699883.1		AAX09_RS03840	861576	862067	1	hypothetical protein	
+840515	865231	24716	Predicted by at least one method	WP_046699884.1		AAX09_RS03845	862187	864049	1	ShlB/FhaC/HecB family hemolysin secretion/activation protein	
+840515	865231	24716	Predicted by at least one method	WP_036362205.1		AAX09_RS03850	864752	865231	1	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	
+851974	856259	4285	Predicted by at least one method	WP_046701030.1		AAX09_RS03780	844095	851990	1	filamentous hemagglutinin N-terminal domain-containing protein	
+851974	856259	4285	Predicted by at least one method	WP_046699879.1		AAX09_RS03785	851974	852261	1	hypothetical protein	
+851974	856259	4285	Predicted by at least one method	WP_080947024.1		AAX09_RS03790	852268	853386	1	hypothetical protein	
+851974	856259	4285	Predicted by at least one method	WP_046699881.1		AAX09_RS03795	853383	853910	1	hypothetical protein	
+851974	856259	4285	Predicted by at least one method	WP_080947025.1		AAX09_RS10680	853944	855245	1	hypothetical protein	
+851974	856259	4285	Predicted by at least one method	WP_046701031.1		AAX09_RS03805	855242	855514	1	hypothetical protein	
+851974	856259	4285	Predicted by at least one method	WP_046701032.1		AAX09_RS03810	855849	856259	-1	IS200/IS605 family transposase	
+1023304	1027443	4139	Predicted by at least one method	WP_080947293.1		AAX09_RS10715	1023304	1025046	1	DUF4433 domain-containing protein	
+1023304	1027443	4139	Predicted by at least one method	WP_046701085.1		AAX09_RS04590	1025046	1025741	1	hypothetical protein	
+1023304	1027443	4139	Predicted by at least one method	WP_046698154.1		AAX09_RS04595	1026335	1026919	1	hypothetical protein	
+1023304	1027443	4139	Predicted by at least one method			AAX09_RS04600	1027208	1027443	1	hypothetical protein	
+1054006	1058356	4350	Predicted by at least one method	WP_046701098.1		AAX09_RS04700	1054006	1055103	-1	hypothetical protein	
+1054006	1058356	4350	Predicted by at least one method	WP_046701099.1		AAX09_RS04705	1055100	1055393	-1	DUF2523 domain-containing protein	
+1054006	1058356	4350	Predicted by at least one method	WP_046701104.1		AAX09_RS10725	1055404	1057065	-1	hypothetical protein	
+1054006	1058356	4350	Predicted by at least one method	WP_080947295.1		AAX09_RS04715	1057079	1058356	-1	hypothetical protein	
+1058933	1065696	6763	Predicted by at least one method	WP_046701101.1		AAX09_RS04725	1058933	1059238	-1	hypothetical protein	
+1058933	1065696	6763	Predicted by at least one method	WP_046701102.1		AAX09_RS04730	1059253	1060479	-1	replication protein	
+1058933	1065696	6763	Predicted by at least one method	WP_046701103.1		AAX09_RS04735	1060605	1060934	1	XRE family transcriptional regulator	
+1058933	1065696	6763	Predicted by at least one method	WP_046701098.1		AAX09_RS04740	1061346	1062443	-1	hypothetical protein	
+1058933	1065696	6763	Predicted by at least one method	WP_046701099.1		AAX09_RS04745	1062440	1062733	-1	DUF2523 domain-containing protein	
+1058933	1065696	6763	Predicted by at least one method	WP_046701104.1		AAX09_RS04750	1062744	1064405	-1	hypothetical protein	
+1058933	1065696	6763	Predicted by at least one method	WP_080947295.1		AAX09_RS04755	1064419	1065696	-1	hypothetical protein	
+1118546	1122799	4253	Predicted by at least one method	WP_080947049.1		AAX09_RS05010	1118546	1120633	-1	DUF262 domain-containing protein	
+1118546	1122799	4253	Predicted by at least one method	WP_080947299.1		AAX09_RS05015	1120633	1121973	-1	DUF262 domain-containing protein	
+1118546	1122799	4253	Predicted by at least one method	WP_080947300.1		AAX09_RS05020	1122527	1122799	1	hypothetical protein	
+1273542	1292233	18691	Predicted by at least one method	WP_046700096.1		AAX09_RS05725	1273542	1274207	-1	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	
+1273542	1292233	18691	Predicted by at least one method	WP_046700097.1		AAX09_RS05730	1274290	1276674	1	ATP-binding protein	
+1273542	1292233	18691	Predicted by at least one method	WP_080947194.1		AAX09_RS10765	1277409	1277891	1	sulfite exporter TauE/SafE family protein	
+1273542	1292233	18691	Predicted by at least one method	WP_080947066.1		AAX09_RS10770	1277800	1278165	1	hypothetical protein	
+1273542	1292233	18691	Predicted by at least one method			AAX09_RS05745	1278380	1279247	1	homocysteine S-methyltransferase	
+1273542	1292233	18691	Predicted by at least one method			AAX09_RS05750	1279314	1280611	1	arginine:ornithine antiporter	
+1273542	1292233	18691	Predicted by at least one method			AAX09_RS05755	1280788	1281998	-1	NADH oxidase	
+1273542	1292233	18691	Predicted by at least one method	WP_080947309.1		AAX09_RS10775	1282073	1282726	-1	hypothetical protein	
+1273542	1292233	18691	Predicted by at least one method	WP_046700640.1		AAX09_RS05765	1282736	1283035	-1	ArsR family transcriptional regulator	
+1273542	1292233	18691	Predicted by at least one method	WP_046698282.1		AAX09_RS05770	1283327	1284445	1	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase	
+1273542	1292233	18691	Predicted by at least one method	WP_046698283.1		AAX09_RS05775	1284507	1285352	1	S-formylglutathione hydrolase	
+1273542	1292233	18691	Predicted by at least one method	WP_046698284.1		AAX09_RS05780	1285424	1285744	-1	thioredoxin	
+1273542	1292233	18691	Predicted by at least one method	WP_046700098.1		AAX09_RS05785	1285813	1286082	-1	hypothetical protein	
+1273542	1292233	18691	Predicted by at least one method	WP_046700099.1		AAX09_RS05790	1286061	1287194	-1	NADH-dependent flavin oxidoreductase	
+1273542	1292233	18691	Predicted by at least one method	WP_080947068.1		AAX09_RS05795	1287356	1287706	-1	TfoX family protein	
+1273542	1292233	18691	Predicted by at least one method	WP_080947069.1		AAX09_RS05800	1287783	1290125	-1	recombinase	
+1273542	1292233	18691	Predicted by at least one method	WP_046700101.1		AAX09_RS05805	1290200	1292233	-1	hypothetical protein	
+1309537	1313621	4084	Predicted by at least one method	WP_036366339.1		AAX09_RS05890	1309537	1309725	-1	zf-HC2 domain-containing protein	
+1309537	1313621	4084	Predicted by at least one method	WP_046700111.1		AAX09_RS05895	1309738	1310325	-1	sigma-70 family RNA polymerase sigma factor	
+1309537	1313621	4084	Predicted by at least one method	WP_046701165.1		AAX09_RS05900	1310613	1311251	-1	DoxX family protein	
+1309537	1313621	4084	Predicted by at least one method	WP_046701166.1		AAX09_RS05905	1311269	1312060	-1	hypothetical protein	
+1309537	1313621	4084	Predicted by at least one method	WP_046701167.1		AAX09_RS05910	1312096	1313004	-1	DUF692 domain-containing protein	
+1309537	1313621	4084	Predicted by at least one method	WP_046700115.1		AAX09_RS05915	1313021	1313221	-1	DUF2892 domain-containing protein	
+1309537	1313621	4084	Predicted by at least one method	WP_046701168.1		AAX09_RS05920	1313232	1313621	-1	rhodanese-like domain-containing protein	
+1392620	1412939	20319	Predicted by at least one method	WP_080947078.1		AAX09_RS06315	1392620	1394314	-1	NADH-quinone oxidoreductase subunit M	
+1392620	1412939	20319	Predicted by at least one method	WP_046700154.1		AAX09_RS06320	1394316	1396172	-1	NADH-quinone oxidoreductase subunit L	
+1392620	1412939	20319	Predicted by at least one method	WP_046700155.1		AAX09_RS06325	1396179	1396529	-1	NADH-quinone oxidoreductase subunit NuoK	
+1392620	1412939	20319	Predicted by at least one method	WP_080947079.1		AAX09_RS06330	1396526	1397152	-1	NADH-quinone oxidoreductase subunit J	
+1392620	1412939	20319	Predicted by at least one method	WP_036366152.1		AAX09_RS06335	1397149	1397697	-1	NADH-quinone oxidoreductase subunit NuoI	
+1392620	1412939	20319	Predicted by at least one method	WP_046700156.1		AAX09_RS06340	1397698	1398726	-1	NADH-quinone oxidoreductase subunit NuoH	
+1392620	1412939	20319	Predicted by at least one method	WP_046701187.1		AAX09_RS06345	1398727	1401843	-1	NADH-quinone oxidoreductase subunit NuoG	
+1392620	1412939	20319	Predicted by at least one method	WP_046701188.1		AAX09_RS06350	1401845	1403263	-1	NADH oxidoreductase (quinone) subunit F	
+1392620	1412939	20319	Predicted by at least one method	WP_036366140.1		AAX09_RS06355	1403260	1403769	-1	NADH-quinone oxidoreductase subunit NuoE	
+1392620	1412939	20319	Predicted by at least one method	WP_080947315.1		AAX09_RS06360	1403953	1404543	1	AraC family transcriptional regulator	
+1392620	1412939	20319	Predicted by at least one method	WP_046701190.1		AAX09_RS06365	1404591	1405886	-1	hypothetical protein	
+1392620	1412939	20319	Predicted by at least one method	WP_046701033.1		AAX09_RS06370	1406019	1407125	-1	transposase	
+1392620	1412939	20319	Predicted by at least one method	WP_046701032.1		AAX09_RS06375	1407174	1407584	1	IS200/IS605 family transposase	
+1392620	1412939	20319	Predicted by at least one method	WP_036366131.1		AAX09_RS06380	1408048	1408293	-1	hypothetical protein	
+1392620	1412939	20319	Predicted by at least one method	WP_046701191.1		AAX09_RS06385	1408384	1410132	-1	NADH-quinone oxidoreductase subunit C/D	
+1392620	1412939	20319	Predicted by at least one method	WP_046701192.1		AAX09_RS06390	1410206	1411126	-1	DMT family transporter	
+1392620	1412939	20319	Predicted by at least one method	WP_046701193.1		AAX09_RS06395	1411119	1411466	-1	hypothetical protein	
+1392620	1412939	20319	Predicted by at least one method	WP_036366122.1		AAX09_RS06400	1411520	1412188	-1	NADH-quinone oxidoreductase subunit B	
+1392620	1412939	20319	Predicted by at least one method	WP_046701194.1		AAX09_RS06405	1412310	1412939	-1	NADH-quinone oxidoreductase subunit A	
+1616714	1625433	8719	Predicted by at least one method	WP_046701295.1		AAX09_RS07350	1615813	1616724	-1	UDP-3-O-acyl-N-acetylglucosamine deacetylase	
+1616714	1625433	8719	Predicted by at least one method	WP_080947338.1		AAX09_RS10805	1616714	1618249	-1	DUF3987 domain-containing protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701296.1		AAX09_RS07360	1618219	1618413	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701297.1		AAX09_RS07365	1618410	1618637	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701298.1		AAX09_RS07370	1618634	1618954	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_036365371.1		AAX09_RS07375	1619292	1619480	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701299.1		AAX09_RS07380	1619610	1619876	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_036365369.1		AAX09_RS07385	1619873	1620085	-1	AlpA family phage regulatory protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701300.1		AAX09_RS07390	1620238	1620984	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method			AAX09_RS07395	1621093	1622138	-1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701301.1		AAX09_RS07400	1622302	1623489	-1	DUF4102 domain-containing protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701302.1		AAX09_RS07405	1623942	1624454	1	hypothetical protein	
+1616714	1625433	8719	Predicted by at least one method	WP_046701303.1		AAX09_RS07410	1624465	1625433	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046699028.1		AAX09_RS08870	1907876	1908091	-1	XRE family transcriptional regulator	
+1907876	1925696	17820	Predicted by at least one method	WP_080947367.1		AAX09_RS10875	1908518	1910542	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046697194.1		AAX09_RS08885	1910542	1911201	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701461.1		AAX09_RS08890	1911277	1911609	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701462.1		AAX09_RS08895	1911618	1912064	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_080947368.1		AAX09_RS10880	1912107	1912652	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701463.1		AAX09_RS08905	1912649	1912987	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method			AAX09_RS10885	1912984	1913133	1	hemagglutinin	
+1907876	1925696	17820	Predicted by at least one method	WP_080947369.1		AAX09_RS08915	1913454	1913981	1	SMI1/KNR4 family protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701740.1		AAX09_RS08920	1914051	1914440	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701465.1		AAX09_RS08925	1914442	1914915	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701466.1		AAX09_RS08930	1914958	1915449	-1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701467.1		AAX09_RS08935	1915450	1915728	-1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_046701468.1		AAX09_RS08940	1915706	1918303	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_036367258.1		AAX09_RS08945	1918412	1918816	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_080947370.1		AAX09_RS08950	1918950	1919891	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_080947371.1		AAX09_RS08955	1920043	1922607	1	TonB-dependent receptor	
+1907876	1925696	17820	Predicted by at least one method	WP_080947372.1		AAX09_RS08960	1922633	1923031	-1	IS30 family transposase	
+1907876	1925696	17820	Predicted by at least one method	WP_052585440.1		AAX09_RS10890	1923131	1923421	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_052585439.1		AAX09_RS08965	1923418	1924425	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_080702259.1		AAX09_RS10895	1924450	1924680	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_036367247.1		AAX09_RS08970	1924687	1925196	1	hypothetical protein	
+1907876	1925696	17820	Predicted by at least one method	WP_080947373.1		AAX09_RS10900	1925472	1925696	-1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_046701559.1		AAX09_RS10015	2149627	2150547	-1	alpha/beta hydrolase	
+2149627	2170351	20724	Predicted by at least one method	WP_005618523.1		AAX09_RS10020	2150580	2151497	-1	cephalosporin-hydrolyzing class A beta-lactamase ROB-1	Resistance gene(CARD)
+2149627	2170351	20724	Predicted by at least one method	WP_025288854.1		AAX09_RS10025	2151555	2151896	-1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_080947398.1		AAX09_RS10945	2152040	2152192	1	helix-turn-helix domain-containing protein	
+2149627	2170351	20724	Predicted by at least one method	WP_080947399.1		AAX09_RS10030	2152189	2152977	1	IS30 family transposase	
+2149627	2170351	20724	Predicted by at least one method	WP_046701560.1		AAX09_RS10035	2152982	2153455	-1	acetyl-CoA carboxylase biotin carboxyl carrier protein	
+2149627	2170351	20724	Predicted by at least one method	WP_080947400.1		AAX09_RS10040	2153619	2154209	1	RepB family plasmid replication initiator protein	
+2149627	2170351	20724	Predicted by at least one method	WP_021112586.1		AAX09_RS10045	2154843	2155067	-1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method			AAX09_RS10950	2155203	2155280	-1	transcriptional regulator	
+2149627	2170351	20724	Predicted by at least one method	WP_046701561.1		AAX09_RS10050	2155301	2156116	1	sulfonamide-resistant dihydropteroate synthase Sul2	
+2149627	2170351	20724	Predicted by at least one method	WP_001145207.1		AAX09_RS10055	2156329	2157087	1	APH(3'') family aminoglycoside O-phosphotransferase	Resistance gene(RGI)
+2149627	2170351	20724	Predicted by at least one method	WP_080947401.1		AAX09_RS10955	2157087	2157242	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_000018321.1		AAX09_RS10060	2157288	2158103	1	aminoglycoside O-phosphotransferase APH(3')-Ia	Resistance gene(RGI)
+2149627	2170351	20724	Predicted by at least one method			AAX09_RS10065	2158257	2158946	-1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_021265455.1		AAX09_RS10070	2159072	2159257	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_025288852.1		AAX09_RS10075	2159410	2160030	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method			AAX09_RS10080	2160203	2160613	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_006248868.1		AAX09_RS10085	2160616	2161239	-1	TetR family transcriptional regulator	
+2149627	2170351	20724	Predicted by at least one method	WP_046701562.1		AAX09_RS10090	2161331	2162509	1	tetracycline efflux MFS transporter Tet(H)	
+2149627	2170351	20724	Predicted by at least one method	WP_080947402.1		AAX09_RS10960	2162460	2162798	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_046701563.1		AAX09_RS10095	2162761	2163318	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_046701564.1		AAX09_RS10100	2163315	2163860	1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_046701565.1		AAX09_RS10105	2164458	2165933	1	Msr family ABC-F type ribosomal protection protein	
+2149627	2170351	20724	Predicted by at least one method	WP_046701566.1		AAX09_RS10110	2165989	2166873	1	Mph(E) family macrolide 2'-phosphotransferase	
+2149627	2170351	20724	Predicted by at least one method			AAX09_RS10965	2166926	2167003	-1	transcriptional regulator	
+2149627	2170351	20724	Predicted by at least one method	WP_001043260.1		AAX09_RS10115	2167027	2167842	1	sulfonamide-resistant dihydropteroate synthase Sul2	Resistance gene(CARD)
+2149627	2170351	20724	Predicted by at least one method			AAX09_RS10970	2167763	2167948	-1	hypothetical protein	
+2149627	2170351	20724	Predicted by at least one method	WP_046701567.1		AAX09_RS10120	2167976	2169190	-1	chloramphenicol/florfenicol efflux MFS transporter FloR	
+2149627	2170351	20724	Predicted by at least one method	WP_001447541.1		AAX09_RS10975	2169467	2170351	-1	DUF3363 domain-containing protein	
