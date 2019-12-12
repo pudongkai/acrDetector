@@ -17,16 +17,16 @@
 
   ```
   eg:
-  	CP014225.1.gbff (GenBank annotation file)
-  	CP014225.1.tsv (IslandViewer result file)
-  	CP014225.1.phage (PHASTER result file)
+  	NZ_CP011374.1.gbff (GenBank annotation file)
+  	NZ_CP011374.1.tsv (IslandViewer result file)
+  	NZ_CP011374.1.phage (PHASTER result file)
   ```
 
 - Usage
 
   ```shell
   cd acrDetector/
-  python3 main.py basePath/CP014225.1
+  python3 main.py basePath/NZ_CP011374.1
   ```
 
 - Result
