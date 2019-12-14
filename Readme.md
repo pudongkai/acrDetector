@@ -28,6 +28,7 @@
   cd acrDetector/
   python3 main.py basePath/NZ_CP011374.1
   ```
+  **Note:** The basePath should be absolute Path.
 
 - Result
 
