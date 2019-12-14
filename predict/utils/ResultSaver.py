@@ -3,8 +3,9 @@ from Bio import SeqIO
 from . import FeatureHandler
 
 def save(dataSetFile, predict_proteins):
-    path = os.path.split(dataSetFile)[0]
-    fo = open(path + "/result.txt", "w")
+    path, fileName = os.path.split(dataSetFile)
+    resultFile = path + "/result-" + fileName
+    fo = open(resultFile, "w")
 
     features = FeatureHandler.getFeatures(dataSetFile, predict_proteins)
 
