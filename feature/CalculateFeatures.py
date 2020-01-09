@@ -29,6 +29,7 @@ def CalculateFeatures(fileName):
         phaster_locations = MGE.PHASTERLocation(phasterFile, gbkFile)
     gene_dict, Dict_genome_CDS = CodonDistance.distance(gbkFile)  # calculate codon distance
 
+    print("Calculating features...")
     for record in SeqIO.parse(faa, 'fasta'):
         des = record.description
         info, location, product = des.split('\t')

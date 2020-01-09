@@ -6,9 +6,9 @@ def extractHTH(faa):
     hthFile = faa.replace(".faa", ".hth")
     hmmscan = "feature/lib/hmmscan"
     hmmdb = 'feature/utils/pfarmHTHdatabase/HTH.hmm'
+    print("Detecting HTH...")
     if not os.path.isfile(hthFile):
-        print(hmmdb)
-        os.system('%s --tblout %s %s %s' % (hmmscan, hthFile, hmmdb, faa))
+        os.system('%s --tblout %s %s %s > /dev/null' % (hmmscan, hthFile, hmmdb, faa))
 
     hth_proteins = set()
     with open(hthFile, 'r') as f:

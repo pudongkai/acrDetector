@@ -11,6 +11,8 @@ model = "predict/model/train_model.m"
 def predict(dataSetFile):
     dataSetFile = dataSetFile + ".txt"
 
+    print("Predicting Acr...")
+
     X, protein_ids = FeatureHandler.createDataset(dataSetFile)
 
     dtc = joblib.load(model)
