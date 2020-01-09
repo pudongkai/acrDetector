@@ -24,7 +24,9 @@ def CalculateFeatures(fileName):
     # calculate features
     faa, protein_id_list = ExtractProteins.extract(gbkFile)
     hth_proteins = HTHGap.extractHTH(faa)
-    phaster_locations = MGE.PHASTERLocation(phasterFile, gbkFile)
+    phaster_locations = {}
+    if os.path.isfile(phasterFile):
+        phaster_locations = MGE.PHASTERLocation(phasterFile, gbkFile)
     gene_dict, Dict_genome_CDS = CodonDistance.distance(gbkFile)  # calculate codon distance
 
     for record in SeqIO.parse(faa, 'fasta'):
