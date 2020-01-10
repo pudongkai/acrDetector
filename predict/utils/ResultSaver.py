@@ -13,7 +13,7 @@ def save(dataSetFile, predict_proteins):
     handle = SeqIO.parse(gbkFile, 'genbank')
     for record in handle:
         locus = record.id
-        genome = record.annotations["source"]
+        genome = record.description
         fo.write("%s\n" % genome)
         fo.write("GenBank: %s\n" % locus)
         fo.write("Potential Acr(s): %d\n\n" % len(predict_proteins))
@@ -31,6 +31,8 @@ def save(dataSetFile, predict_proteins):
 
                     if proteinId not in predict_proteins:
                         continue
+                    else:
+                        predict_proteins.remove(proteinId)
 
                     mge = features[proteinId]["mge"]
                     hth = features[proteinId]["hth"]
