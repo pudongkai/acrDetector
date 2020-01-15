@@ -26,7 +26,7 @@ def createDataset(file):
 
 
 def getFeatures(file, predict_proteins):
-    island = {"1": "prophage", "2": "normal gene island", "0": "out if GIs"}
+    island = {"1": "prophage", "2": "normal gene island", "0": "out of GIs"}
 
     features = {}
     with open(file) as f:
